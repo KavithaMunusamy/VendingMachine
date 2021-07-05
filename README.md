@@ -3,6 +3,7 @@
 Project Title: Designing Vending Machine
 
 Motivation: To Design a vending machine to achieve following functionalities and test with testing framework:
+
               1. Accepts coins of 1,5,10,25 Cents i.e. penny, nickel, dime, and quarter.
 
               2. Allow user to select products Coke(25), Pepsi(35), Soda(45)

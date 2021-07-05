@@ -29,6 +29,7 @@ Utility: This folder contains the support functionalities:
  
  Testing Framework: Junit Framework to validate the vending machine functionalities
     The following scenarios are covered:
+    
       1.Buying a product with exact price
       2.Buying a product with excess price
       3.Refund of amount after cancellation
@@ -37,6 +38,7 @@ Utility: This folder contains the support functionalities:
       
  Steps to execute:
   The framework is developed using Maven and added <build> with org.apache.maven.plugins to run the application.
-  Open command prompt
-  Move to the Project location
-  Give the command "mvn clean test" which will execute the test scripts to the validate the application
+  
+        1.Open command prompt
+        2.Move to the Project location  
+        3.Give the command "mvn clean test" which will execute the test scripts to the validate the application
